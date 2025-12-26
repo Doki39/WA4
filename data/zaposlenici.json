@@ -1,0 +1,121 @@
+[
+  {
+    "id": 1,
+    "ime": "Marko",
+    "prezime": "Horvat",
+    "godine_staza": 12,
+    "pozicija": "Direktor"
+  },
+  {
+    "id": 2,
+    "ime": "Ana",
+    "prezime": "Kovačević",
+    "godine_staza": 8,
+    "pozicija": "Voditelj projekta"
+  },
+  {
+    "id": 3,
+    "ime": "Ivan",
+    "prezime": "Marić",
+    "godine_staza": 5,
+    "pozicija": "Programer"
+  },
+  {
+    "id": 4,
+    "ime": "Petra",
+    "prezime": "Novak",
+    "godine_staza": 3,
+    "pozicija": "Dizajner"
+  },
+  {
+    "id": 5,
+    "ime": "Luka",
+    "prezime": "Babić",
+    "godine_staza": 6,
+    "pozicija": "Programer"
+  },
+  {
+    "id": 6,
+    "ime": "Maja",
+    "prezime": "Jurić",
+    "godine_staza": 10,
+    "pozicija": "HR menadžer"
+  },
+  {
+    "id": 7,
+    "ime": "Tomislav",
+    "prezime": "Radić",
+    "godine_staza": 4,
+    "pozicija": "QA tester"
+  },
+  {
+    "id": 8,
+    "ime": "Ivana",
+    "prezime": "Perić",
+    "godine_staza": 7,
+    "pozicija": "Backend programer"
+  },
+  {
+    "id": 9,
+    "ime": "Filip",
+    "prezime": "Bošnjak",
+    "godine_staza": 2,
+    "pozicija": "Frontend programer"
+  },
+  {
+    "id": 10,
+    "ime": "Katarina",
+    "prezime": "Vuković",
+    "godine_staza": 9,
+    "pozicija": "Voditelj tima"
+  },
+  {
+    "id": 12,
+    "ime": "Katarina",
+    "prezime": "Vuković",
+    "godine_staza": 9,
+    "pozicija": "Voditelj tima"
+  },
+  {
+    "id": 12,
+    "ime": "Katarina",
+    "prezime": "Vuković",
+    "godine_staza": 9,
+    "pozicija": "Voditelj tima"
+  },
+  {
+    "id": 12,
+    "ime": "Katarina",
+    "prezime": "Vuković",
+    "godine_staza": 9,
+    "pozicija": "Voditelj tima"
+  },
+  {
+    "id": 12,
+    "ime": "Katarina",
+    "prezime": "Vuković",
+    "godine_staza": "9",
+    "pozicija": "Voditelj tima"
+  },
+  {
+    "id": 13,
+    "ime": "Katarina",
+    "prezime": "Vuković",
+    "godine_staza": 9,
+    "pozicija": "Voditelj tima"
+  },
+  {
+    "id": 14,
+    "ime": "Katarina",
+    "prezime": "Vuković",
+    "godine_staza": 9,
+    "pozicija": "Voditelj tima"
+  },
+  {
+    "id": 15,
+    "ime": "Katarina",
+    "prezime": "Vuković",
+    "godine_staza": 9,
+    "pozicija": "Voditelj tima"
+  }
+]
